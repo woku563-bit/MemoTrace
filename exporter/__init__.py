@@ -1,3 +1,4 @@
+from __future__ import annotations
 from exporter.exporter_txt import TxtExporter
 from exporter.exporter_ai_txt import AiTxtExporter
 from exporter.exporter_csv import CSVExporter

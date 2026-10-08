@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+from __future__ import annotations
 """
 @Time        : 2025/2/17 21:34 
 @Author      : SiYuan 

@@ -6,6 +6,7 @@
 # Date:         2023/08/22
 # License:      https://github.com/xaoyaoo/PyWxDump/blob/3b794bcb47b0457d1245ce5b4cfec61b74524073/LICENSE MIT
 # -------------------------------------------------------------------------------
+from __future__ import annotations
 import argparse
 import ctypes
 import hashlib

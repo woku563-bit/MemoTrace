@@ -1,3 +1,4 @@
+from __future__ import annotations
 """
 This script implements an API for the ChatGLM3-6B model,
 formatted similarly to OpenAI's API (https://platform.openai.com/docs/api-reference/chat).

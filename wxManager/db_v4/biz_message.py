@@ -8,6 +8,7 @@
 @File        : wxManager-biz_message.py 
 @Description : 
 """
+from __future__ import annotations
 import concurrent
 import hashlib
 import os

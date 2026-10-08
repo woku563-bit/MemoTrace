@@ -8,6 +8,7 @@
 @File        : MemoTrace-manager_v4.py
 @Description : 
 """
+from __future__ import annotations
 import concurrent
 import os
 import re

@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+from __future__ import annotations
 """
 @File    : __init__.py.py
 @Author  : Shuaikang Zhou
